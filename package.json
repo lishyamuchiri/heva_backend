@@ -19,5 +19,5 @@
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
-  "packageManager": "pnpm@8.6.0"
+ 
 }
